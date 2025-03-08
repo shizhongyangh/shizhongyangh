@@ -30,19 +30,18 @@
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure)
 
 ## 🏆 项目精选
-### [项目1名称](项目链接)
-▶️ 项目亮点：高并发分布式任务调度系统  
-✨ 技术组合：Go + Kubernetes + Redis  
-📈 成果：支撑日均百万级任务调度
-
-### [项目2名称](项目链接)
-▶️ 项目亮点：智能数据分析平台  
-✨ 技术组合：Python + Apache Spark + Elasticsearch  
-📊 成果：实现TB级数据实时分析
+### [5500WOS](https://github.com/shizhongyangh/550WOS/)
+▶️ 项目亮点：网页端模拟550W操作系统
+✨ 技术组合：HTML + CSS + JS
+📈 成果：流畅、美观的界面
+### [我叫石仲彦的博客](https://github.com/shizhongyangh/shizhongyangh.github.io)
+▶️ 项目亮点：美观的博客
+✨ 技术组合：HTML + CSS + JS
+📊 成果：实现多功能博客
 
 ## 📈 GitHub数据
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)](https://github.com/你的用户名)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact)](https://github.com/你的用户名)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizhongyangh&show_icons=true&theme=radical)](https://github.com/shizhongyangh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizhongyangh&layout=compact)](https://github.com/shizhongyangh)
 
 ## 📫 联系我
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-专业社交-0A66C2?logo=linkedin)]((https://www.linkedin.com/in/%E4%BB%B2%E5%BD%A6-%E7%9F%B3-331b3931a))
