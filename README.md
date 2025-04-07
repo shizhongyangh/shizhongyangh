@@ -1,6 +1,6 @@
 # 👋 你好，我是我叫石仲彦
 
-[![GitHub Followers](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/shizhongyangh)
+[![GitHub Followers](https://img.shields.io/github/followers/shizhongyangh?style=social)](https://github.com/shizhongyangh)
 [![Website](https://img.shields.io/badge/个人网站-蓝色?style=flat&logo=google-chrome)](https://shizhongyan.top)
 [![Email](https://img.shields.io/badge/联系邮箱-重要?style=flat&logo=gmail)](mailto:szycxgzs@qq.com)
 
@@ -21,8 +21,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ### 技术框架
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![hexo(https://img.shields.io/badge/-hexo-61DAFB?logo=hexo&logoColor=black)
+![python](https://img.shields.io/badge/-python-6DB33F?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### 云服务
@@ -34,9 +34,9 @@
 ▶️ 项目亮点：网页端模拟550W操作系统
 ✨ 技术组合：HTML + CSS + JS
 📈 成果：流畅、美观的界面
-### [我叫石仲彦的博客](https://github.com/shizhongyangh/shizhongyangh.github.io)
+### [我叫石仲彦的博客](https://github.com/shizhongyangh/szyblog)
 ▶️ 项目亮点：美观的博客
-✨ 技术组合：HTML + CSS + JS
+✨ 技术组合：Hexo + Theme-buttrfly 
 📊 成果：实现多功能博客
 
 ## 📈 GitHub数据
@@ -44,7 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizhongyangh&layout=compact)](https://github.com/shizhongyangh)
 
 ## 📫 联系我
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-专业社交-0A66C2?logo=linkedin)]((https://www.linkedin.com/in/%E4%BB%B2%E5%BD%A6-%E7%9F%B3-331b3931a))
+[![QQ](https://img.shields.io/badge/QQ-专业社交-0A66C2?logo=QQ)]((https://www.linkedin.com/in/%E4%BB%B2%E5%BD%A6-%E7%9F%B3-331b3931a))
 [![Twitter](https://img.shields.io/badge/Twitter-技术分享-1DA1F2?logo=twitter)](Twitter主页链接)
 [![Zhihu](https://img.shields.io/badge/知乎-技术专栏-0084FF?logo=zhihu)](知乎主页链接)
 
