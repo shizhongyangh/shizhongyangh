@@ -1,4 +1,4 @@
-# 👋 你好，我是我叫石仲彦
+# 👋 你好，我是ShiZhongyan🍭
 
 [![GitHub Followers](https://img.shields.io/github/followers/shizhongyangh?style=social)](https://github.com/shizhongyangh)
 [![Website](https://img.shields.io/badge/个人网站-蓝色?style=flat&logo=google-chrome)](https://shizhongyan.top)
@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ### 技术框架
-![hexo(https://img.shields.io/badge/-hexo-61DAFB?logo=hexo&logoColor=black)
+![hexo](https://img.shields.io/badge/-hexo-61DAFB?logo=hexo&logoColor=black)
 ![python](https://img.shields.io/badge/-python-6DB33F?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
