@@ -1,10 +1,10 @@
 # 👋 你好，我是ShiZhongyan🍭
 
 [![GitHub Followers](https://img.shields.io/github/followers/shizhongyangh?style=social)](https://github.com/shizhongyangh)
-[![Website](https://img.shields.io/badge/个人网站-蓝色?style=flat&logo=google-chrome)](https://shizhongyan.top)
+[![Website](https://img.shields.io/badge/个人网站-蓝色?style=flat&logo=google-chrome)](https://www.szyd.fun)
 [![Email](https://img.shields.io/badge/联系邮箱-重要?style=flat&logo=gmail)](mailto:szycxgzs@qq.com)
 
-**🚀 全栈开发者 | 开源贡献者 | 技术写作者**
+**🚀 全栈开发者 | 开源贡献者 | SZY创新工作室创始人**
 
 ## 📌 个人简介
 我是一名充满热情的小学生，专注于：
@@ -34,7 +34,7 @@
 ▶️ 项目亮点：网页端模拟550W操作系统
 ✨ 技术组合：HTML + CSS + JS
 📈 成果：流畅、美观的界面
-### [我叫石仲彦的博客](https://github.com/shizhongyangh/szyblog)
+### [ShiZhongyan🍭の博客](https://github.com/shizhongyangh/szyblog)
 ▶️ 项目亮点：美观的博客
 ✨ 技术组合：Hexo + Theme-buttrfly 
 📊 成果：实现多功能博客
