@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" fill="none" role="img" aria-label="ShiZhongyan, front-end engineer and independent developer">
+  <style>
+    .sans{font-family:Inter,"Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+
+    .a1{animation:d1 28s ease-in-out infinite}
+    .a2{animation:d2 34s ease-in-out infinite}
+    .a3{animation:d3 40s ease-in-out infinite}
+    @keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(64px,-34px)}}
+    @keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-56px,38px)}}
+    @keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(34px,-44px)}}
+
+    .spin1{transform-box:view-box;transform-origin:1300px 240px;animation:sp 96s linear infinite}
+    .spin2{transform-box:view-box;transform-origin:1300px 240px;animation:sp 62s linear infinite reverse}
+    @keyframes sp{to{transform:rotate(360deg)}}
+
+    @media (prefers-reduced-motion:reduce){.a1,.a2,.a3,.spin1,.spin2{animation:none}}
+  </style>
+
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7A8CFF" stop-opacity=".5"/>
+      <stop offset=".55" stop-color="#7A8CFF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#7A8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#3FD9C9" stop-opacity=".34"/>
+      <stop offset=".55" stop-color="#3FD9C9" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#3FD9C9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FF7FA8" stop-opacity=".18"/>
+      <stop offset=".6" stop-color="#FF7FA8" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#FF7FA8" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".72" stop-color="#E9E7E1"/>
+      <stop offset="1" stop-color="#ADAAA4"/>
+    </linearGradient>
+
+    <radialGradient id="mfade" cx="50%" cy="46%" r="76%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset=".52" stop-color="#ffffff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="mf"><rect width="1600" height="480" fill="url(#mfade)"/></mask>
+
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#EDEBE6" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="480" fill="#08080A"/>
+  <rect width="1600" height="480" fill="url(#grid)" mask="url(#mf)"/>
+
+  <g>
+    <g class="a1"><ellipse cx="1180" cy="150" rx="430" ry="290" fill="url(#g1)"/></g>
+    <g class="a2"><ellipse cx="1450" cy="380" rx="340" ry="240" fill="url(#g2)"/></g>
+    <g class="a3"><ellipse cx="520" cy="470" rx="420" ry="240" fill="url(#g3)"/></g>
+  </g>
+
+  <rect width="1600" height="480" filter="url(#grain)" opacity=".05"/>
+
+  <rect x="28.5" y="28.5" width="1543" height="423" stroke="#EDEBE6" stroke-opacity=".09"/>
+  <path d="M28 66V28h38M1534 28h38v38M1572 414v38h-38M66 452H28v-38" stroke="#EDEBE6" stroke-opacity=".3"/>
+
+  <g opacity=".7">
+    <circle cx="1300" cy="240" r="104" stroke="#EDEBE6" stroke-opacity=".2" stroke-dasharray="1 9"/>
+    <circle cx="1300" cy="240" r="66" stroke="#EDEBE6" stroke-opacity=".12"/>
+    <path d="M1300 116v20M1300 344v20M1176 240h20M1404 240h20" stroke="#EDEBE6" stroke-opacity=".22"/>
+    <g class="spin1"><circle cx="1300" cy="136" r="3" fill="#EDEBE6" fill-opacity=".85"/></g>
+    <g class="spin2"><circle cx="1366" cy="240" r="2.4" fill="#9AA6FF"/></g>
+    <rect x="1294" y="234" width="12" height="12" transform="rotate(45 1300 240)" fill="#EDEBE6" fill-opacity=".5"/>
+  </g>
+
+  <text x="88" y="252" class="sans" font-size="100" font-weight="700" letter-spacing="-4" fill="url(#ink)">SHIZHONGYAN</text>
+
+  <path d="M90 282H790" stroke="#EDEBE6" stroke-opacity=".3" stroke-width="1"/>
+
+  <text x="88" y="318" class="sans" font-size="21" letter-spacing="1.4" fill="#EDEBE6" fill-opacity=".68">前端工程师 / 独立开发者</text>
+</svg>
