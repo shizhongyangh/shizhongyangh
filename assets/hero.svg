@@ -2,18 +2,23 @@
   <style>
     .sans{font-family:Inter,"Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
-    .a1{animation:d1 28s ease-in-out infinite}
-    .a2{animation:d2 34s ease-in-out infinite}
-    .a3{animation:d3 40s ease-in-out infinite}
-    @keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(64px,-34px)}}
-    @keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-56px,38px)}}
-    @keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(34px,-44px)}}
+    .a1{animation:d1 19s ease-in-out infinite}
+    .a2{animation:d2 24s ease-in-out infinite}
+    .a3{animation:d3 29s ease-in-out infinite}
+    @keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(78px,-42px)}}
+    @keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-70px,46px)}}
+    @keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(44px,-54px)}}
 
-    .spin1{transform-box:view-box;transform-origin:1300px 240px;animation:sp 96s linear infinite}
-    .spin2{transform-box:view-box;transform-origin:1300px 240px;animation:sp 62s linear infinite reverse}
+    .spin1{transform-box:view-box;transform-origin:1300px 240px;animation:sp 66s linear infinite}
+    .spin2{transform-box:view-box;transform-origin:1300px 240px;animation:sp 44s linear infinite reverse}
     @keyframes sp{to{transform:rotate(360deg)}}
 
-    @media (prefers-reduced-motion:reduce){.a1,.a2,.a3,.spin1,.spin2{animation:none}}
+    .b1{animation:sc1 16s linear infinite}
+    .b2{animation:sc2 24s linear infinite}
+    @keyframes sc1{to{transform:translateX(-400px)}}
+    @keyframes sc2{to{transform:translateX(-400px)}}
+
+    @media (prefers-reduced-motion:reduce){.a1,.a2,.a3,.spin1,.spin2,.b1,.b2{animation:none}}
   </style>
 
   <defs>
@@ -46,6 +51,15 @@
     </radialGradient>
     <mask id="mf"><rect width="1600" height="480" fill="url(#mfade)"/></mask>
 
+    <linearGradient id="fadeX" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".14" stop-color="#fff" stop-opacity="1"/>
+      <stop offset=".86" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="bmask"><rect width="1600" height="480" fill="url(#fadeX)"/></mask>
+    <clipPath id="fc"><rect x="28" y="28" width="1544" height="424"/></clipPath>
+
     <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
       <path d="M80 0H0V80" fill="none" stroke="#EDEBE6" stroke-opacity=".055" stroke-width="1"/>
     </pattern>
@@ -63,6 +77,15 @@
     <g class="a1"><ellipse cx="1180" cy="150" rx="430" ry="290" fill="url(#g1)"/></g>
     <g class="a2"><ellipse cx="1450" cy="380" rx="340" ry="240" fill="url(#g2)"/></g>
     <g class="a3"><ellipse cx="520" cy="470" rx="420" ry="240" fill="url(#g3)"/></g>
+  </g>
+
+  <g clip-path="url(#fc)" mask="url(#bmask)">
+    <g class="b1">
+      <path d="M-400 388C-300 416 -100 416 0 388C100 360 300 360 400 388C500 416 700 416 800 388C900 360 1100 360 1200 388C1300 416 1500 416 1600 388C1700 360 1900 360 2000 388" stroke="#9AA6FF" stroke-opacity=".32" stroke-width="1.1" fill="none"/>
+    </g>
+    <g class="b2">
+      <path d="M-400 416C-300 444 -100 444 0 416C100 388 300 388 400 416C500 444 700 444 800 416C900 388 1100 388 1200 416C1300 444 1500 444 1600 416C1700 388 1900 388 2000 416" stroke="#7FE3D6" stroke-opacity=".22" stroke-width="1.1" fill="none"/>
+    </g>
   </g>
 
   <rect width="1600" height="480" filter="url(#grain)" opacity=".05"/>
