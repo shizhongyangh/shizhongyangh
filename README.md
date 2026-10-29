@@ -28,11 +28,11 @@
 **技术** — HTML · CSS · JavaScript<br>
 **状态** — 10 stars；[在线演示](https://550w.szyd.fun)
 
-### [ybt-answers](https://github.com/shizhongyangh/ybt-answers)
+### [CourseShop](https://github.com/SZYInnovationStudio/CourseShop)
 
-**概要** — 面向《信息学奥赛一本通》的答案管理、分类浏览与检索系统<br>
-**技术** — PHP · MySQL<br>
-**状态** — 持续维护；部署于 [ybt.szystudio.cn](https://ybt.szystudio.cn)
+**概要** — 在线课程售卖系统，覆盖课程浏览、支付、视频学习与后台运营<br>
+**技术** — PHP 8.1 · MySQL · 原生 HTML/CSS/JS<br>
+**状态** — MIT 开源；内置安装向导，不依赖框架与构建工具
 
 ### [MCServerBackupPanel](https://github.com/SZYInnovationStudio/MCServerBackupPanel)
 
@@ -40,17 +40,11 @@
 **技术** — PHP · MySQL<br>
 **状态** — 工作室主力项目，适用于个人服主与小规模服务器集群
 
-### [MCServerStatusWebPanel](https://github.com/SZYInnovationStudio/MCServerStatusWebPanel)
+### [SZY工具集](https://github.com/SZYInnovationStudio/SZYTools)
 
-**概要** — 纯静态 Minecraft 服务器状态面板，支持 Java、基岩版与互通服务器<br>
-**技术** — HTML · CSS · JavaScript<br>
-**状态** — 无后端依赖，可直接部署于任意静态托管服务
-
-### [szyblog](https://github.com/shizhongyangh/szyblog)
-
-**概要** — 可直接复用的 Hexo 博客模板，包含主题定制与交互细节<br>
-**技术** — Hexo · JavaScript<br>
-**状态** — 开源；调整配置后即可部署
+**概要** — 六十余个本地运行的网页工具，覆盖编码、加密、格式化与图像处理<br>
+**技术** — HTML · CSS · JavaScript · HTML5+<br>
+**状态** — 网页版与安卓版同源；[在线使用](https://tools.szystudio.cn)
 
 <sub><a href="https://github.com/shizhongyangh?tab=repositories">全部 15 个公开仓库 →</a></sub>
 
