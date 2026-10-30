@@ -2,19 +2,19 @@
   <style>
     .sans{font-family:Inter,"Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
-    .a1{animation:d1 19s ease-in-out infinite}
-    .a2{animation:d2 24s ease-in-out infinite}
-    .a3{animation:d3 29s ease-in-out infinite}
+    .a1{animation:d1 15s ease-in-out infinite}
+    .a2{animation:d2 19s ease-in-out infinite}
+    .a3{animation:d3 23s ease-in-out infinite}
     @keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(78px,-42px)}}
     @keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-70px,46px)}}
     @keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(44px,-54px)}}
 
-    .spin1{transform-box:view-box;transform-origin:1300px 240px;animation:sp 66s linear infinite}
-    .spin2{transform-box:view-box;transform-origin:1300px 240px;animation:sp 44s linear infinite reverse}
+    .spin1{transform-box:view-box;transform-origin:1300px 240px;animation:sp 50s linear infinite}
+    .spin2{transform-box:view-box;transform-origin:1300px 240px;animation:sp 34s linear infinite reverse}
     @keyframes sp{to{transform:rotate(360deg)}}
 
-    .b1{animation:sc1 16s linear infinite}
-    .b2{animation:sc2 24s linear infinite}
+    .b1{animation:sc1 12s linear infinite}
+    .b2{animation:sc2 18s linear infinite}
     @keyframes sc1{to{transform:translateX(-400px)}}
     @keyframes sc2{to{transform:translateX(-400px)}}
 

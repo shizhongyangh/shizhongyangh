@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="84" viewBox="0 0 1600 84" fill="none" role="presentation">
+  <style>
+        .b1{animation:b1m 13s ease-in-out infinite alternate}
+    @keyframes b1m{from{transform:translateX(-110px)}to{transform:translateX(90px)}}
+    .b2{animation:b2m 17s ease-in-out infinite alternate}
+    @keyframes b2m{from{transform:translateX(80px)}to{transform:translateX(-120px)}}
+    .b3{animation:b3m 21s ease-in-out infinite alternate}
+    @keyframes b3m{from{transform:translateX(-70px)}to{transform:translateX(130px)}}
+    .b4{animation:b4m 27s ease-in-out infinite alternate}
+    @keyframes b4m{from{transform:translateX(120px)}to{transform:translateX(-80px)}}
+    @media (prefers-reduced-motion:reduce){.b1,.b2,.b3,.b4{animation:none}}
+  </style>
+  <defs>
+    <radialGradient id="c1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7A8CFF" stop-opacity=".42"/>
+      <stop offset=".5" stop-color="#7A8CFF" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#7A8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="c2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#46D9C8" stop-opacity=".36"/>
+      <stop offset=".5" stop-color="#46D9C8" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#46D9C8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="c3" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FF7FA8" stop-opacity=".34"/>
+      <stop offset=".5" stop-color="#FF7FA8" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#FF7FA8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="c4" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8B93A3" stop-opacity=".20"/>
+      <stop offset=".5" stop-color="#8B93A3" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#8B93A3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g class="b1"><ellipse cx="300" cy="34" rx="320" ry="26" fill="url(#c1)"/></g>
+  <g class="b2"><ellipse cx="720" cy="52" rx="270" ry="30" fill="url(#c2)"/></g>
+  <g class="b3"><ellipse cx="1080" cy="38" rx="340" ry="22" fill="url(#c3)"/></g>
+  <g class="b4"><ellipse cx="1400" cy="56" rx="250" ry="18" fill="url(#c4)"/></g>
+</svg>

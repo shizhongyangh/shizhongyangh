@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="84" viewBox="0 0 1600 84" fill="none" role="presentation">
   <style>
-    .ln{stroke:url(#lg);stroke-width:1.3;fill:none;stroke-linecap:round}
+    .ln{stroke:url(#lg);stroke-width:1.35;fill:none;stroke-linecap:round}
     .r1{stroke-dasharray:150 850;stroke-dashoffset:1000;animation:f1 8s linear infinite}
     .r2{stroke-dasharray:80 920;stroke-dashoffset:0;animation:f2 11s linear infinite}
     @keyframes f1{to{stroke-dashoffset:0}}
@@ -16,7 +16,7 @@
       <stop offset="1" stop-color="#FF7FA8" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <path class="ln" opacity=".2" pathLength="1000" d="M0 46C160 26 300 62 470 44C640 26 780 22 950 40C1120 58 1300 54 1600 34"/>
+  <path class="ln" opacity=".3" pathLength="1000" d="M0 46C160 26 300 62 470 44C640 26 780 22 950 40C1120 58 1300 54 1600 34"/>
   <path class="ln r1" pathLength="1000" d="M0 46C160 26 300 62 470 44C640 26 780 22 950 40C1120 58 1300 54 1600 34"/>
   <path class="ln r2" pathLength="1000" d="M0 46C160 26 300 62 470 44C640 26 780 22 950 40C1120 58 1300 54 1600 34"/>
 </svg>

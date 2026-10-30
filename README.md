@@ -12,7 +12,7 @@
 **[SZY 创新工作室](https://www.szystudio.cn)** 是由一群小学生和初中生创建的非营利性科技工作室。致力于利用代码创造有趣且实用的项目，服务网络社区。
 > [SZY创新工作室官网](https://www.szystudio.cn) | [SZY创新工作室Github仓库](https://github.com/SZYInnovationStudio)
 
-<img src="assets/flow-b.svg" width="100%" alt="">
+<img src="assets/dots.svg" width="100%" alt="">
 
 ## 02 / 技术栈
 
@@ -51,13 +51,13 @@
 
 <sub><a href="https://github.com/shizhongyangh?tab=repositories">全部公开仓库 →</a></sub>
 
-<img src="assets/flow-b.svg" width="100%" alt="">
+<img src="assets/ticks.svg" width="100%" alt="">
 
 ## 04 / GitHub
 
 主要语言为 JavaScript、PHP 与 HTML；工作室的仓库位于 [SZYInnovationStudio](https://github.com/SZYInnovationStudio)。
 
-<img src="assets/flow.svg" width="100%" alt="">
+<img src="assets/blobs.svg" width="100%" alt="">
 
 ## 05 / 联系
 
