@@ -53,9 +53,13 @@
 
 <img src="assets/ticks.svg" width="100%" alt="">
 
-## 04 / GitHub
+## 04 / 关于工作室
 
-主要语言为 JavaScript、PHP 与 HTML；工作室的仓库位于 [SZYInnovationStudio](https://github.com/SZYInnovationStudio)。
+工作室以非营利方式运作，方向是把常见需求做成可直接部署的开源工具：课程售卖、服务器运维、网页工具集、题库系统，每一项都配部署文档，而不是只留一个代码仓库。
+
+- **仓库** — 十余个公开仓库，集中在 [SZYInnovationStudio](https://github.com/SZYInnovationStudio)
+- **官网** — [szystudio.cn](https://www.szystudio.cn)，含项目介绍与加入申请
+- **协作** — 代码、文档、设计与测试均可参与
 
 <img src="assets/blobs.svg" width="100%" alt="">
 
