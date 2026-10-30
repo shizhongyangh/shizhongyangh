@@ -1,8 +1,8 @@
 <img src="assets/hero.svg" width="100%" alt="ShiZhongyan — 前端工程师 / 独立开发者">
 
-## 01 / 个人简介
+## 👋你好，我是ShiZhongyan
 
-👋你好，我是ShiZhongyan
+## 01 / 个人简介
 
 全栈工程师、独立开发者，SZY 创新工作室创始人/CEO。
 
