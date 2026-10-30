@@ -2,7 +2,9 @@
 
 ## 01 / 个人简介
 
-前端工程师、独立开发者，SZY 创新工作室创始人/CEO。
+👋你好，我是ShiZhongyan
+
+全栈工程师、独立开发者，SZY 创新工作室创始人/CEO。
 
 - **工作重点** — 工作室开源项目的维护、发布与部署文档
 - **技术方向** — 以 HTML、CSS、JavaScript 构建界面，PHP 与 MySQL 承担服务端
@@ -10,7 +12,7 @@
 - **基础设施** — 自建云盘、图床、状态监控与 Minecraft 服务器
 
 **[SZY 创新工作室](https://www.szystudio.cn)** 是由一群小学生和初中生创建的非营利性科技工作室。致力于利用代码创造有趣且实用的项目，服务网络社区。
-> [SZY创新工作室官网](https://www.szystudio.cn) | [SZY创新工作室Github仓库](https://github.com/SZYInnovationStudio)
+> [S工作室官网](https://www.szystudio.cn) | [工作室Github仓库](https://github.com/SZYInnovationStudio)
 
 <img src="assets/dots.svg" width="100%" alt="">
 
@@ -55,11 +57,10 @@
 
 ## 04 / 关于工作室
 
-工作室成立于 2024 年，以非营利方式运作，专注于代码编写与实用工具的开发，服务网络社区；同时持续开展公益项目，以技术赋能社会。
+SZY创新工作室成立于 2024 年，由一群充满激情的小学生和初中生创建。我们致力于利用代码创造有趣且实用的项目，服务网络社区。
 
 - **成立** — 2024 年
 - **性质** — 非营利性科技工作室
-- **团队** — 创始人、管理、开发、设计四类分工
 - **理念** — 少年 · 技术 · 创新 · 开源
 - **官网** — [szystudio.cn](https://www.szystudio.cn)，可在线提交加入申请
 
