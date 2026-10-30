@@ -12,7 +12,7 @@
 - **基础设施** — 自建云盘、图床、状态监控与 Minecraft 服务器
 
 **[SZY 创新工作室](https://www.szystudio.cn)** 是由一群小学生和初中生创建的非营利性科技工作室。致力于利用代码创造有趣且实用的项目，服务网络社区。
-> [S工作室官网](https://www.szystudio.cn) | [工作室Github仓库](https://github.com/SZYInnovationStudio)
+> [工作室官网](https://www.szystudio.cn) | [工作室Github仓库](https://github.com/SZYInnovationStudio)
 
 <img src="assets/dots.svg" width="100%" alt="">
 
